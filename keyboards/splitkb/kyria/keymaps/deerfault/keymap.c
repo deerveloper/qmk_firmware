@@ -30,6 +30,7 @@ enum layers {
 #define SYM      MO(_SYM)
 #define NAV      MO(_NAV)
 #define FKEYS    MO(_FUNCTION)
+#define MOUSE    MO(_MOUSE)
 #define ADJUST   MO(_ADJUST)
 
 #define CTL_ESC  MT(MOD_LCTL, KC_ESC)
